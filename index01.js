@@ -1,4 +1,4 @@
-/*Usnado o cadastro de cliente como exemplo, crie um aplicação que cadastre um lista de compras.
+/*Usando o cadastro de cliente como exemplo, crie um aplicação que cadastre um lista de compras.
 
 Deve entrar os dados:
 - nome do produto
