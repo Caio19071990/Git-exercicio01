@@ -65,7 +65,7 @@ function resutado() {
 
 }
 
-console.log('Lista de compras: ');
+console.log('Lista de Compras: ');
 
 titulo(posicaoAtual);
 process.stdin.on("data", data => {
